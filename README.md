@@ -679,8 +679,8 @@ private credentials
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/sameeryellamandala/Agentic-AI-travel-planner.git
-cd Agentic-AI-travel-planner
+git clone https://github.com/nrahil/Agentic-AI-Travel-Planner.git
+cd Agentic-AI-Travel-Planner
 ```
 
 ## 2. Create a virtual environment
@@ -1041,8 +1041,8 @@ Local transportation pricing, bus transportation, and dynamic whole-trip replann
 ---
 # 👨‍💻 Author
 
-**Sameer Yellamandala**
+**nrahil**
 
 GitHub:
 
-https://github.com/sameeryellamandala
+https://github.com/nrahil
